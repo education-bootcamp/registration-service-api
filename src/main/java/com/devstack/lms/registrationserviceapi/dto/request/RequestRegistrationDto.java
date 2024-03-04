@@ -10,6 +10,6 @@ import java.util.Date;
 public class RequestRegistrationDto {
     private Date registerDate;
     private Long studentId;
-    private Long programId;
+    private String programId;
     private String intake;
 }

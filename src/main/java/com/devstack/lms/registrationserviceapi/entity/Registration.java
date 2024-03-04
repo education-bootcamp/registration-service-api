@@ -19,7 +19,7 @@ public class Registration {
     private Long id;
     private Date registerDate;
     private Long studentId;
-    private Long programId;
+    private String programId;
     private String intake;
     private boolean verified;
 }
